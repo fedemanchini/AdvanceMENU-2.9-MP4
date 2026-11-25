@@ -1,0 +1,10 @@
+/obj/
+*.o
+*.obj
+*.bak
+*.bak.*
+*.orig
+*.rej
+*.log
+*.map
+/compilar-debug.sh

@@ -1,0 +1,8 @@
+Using built-in specs.
+COLLECT_GCC=C:\msys64\mingw32\bin\gcc.exe
+COLLECT_LTO_WRAPPER=C:/msys64/mingw32/bin/../lib/gcc/i686-w64-mingw32/16.2.0/lto-wrapper.exe
+Target: i686-w64-mingw32
+Configured with: ../gcc-16.2.0/configure --prefix=/mingw32 --with-sysroot=/mingw32 --with-build-sysroot=D:/M/msys64/mingw32 --with-local-prefix=/local --with-native-system-header-dir=/include --libexecdir=/mingw32/lib --enable-bootstrap --enable-checking=release --with-arch=pentium4 --with-tune=generic --enable-mingw-wildcard --enable-languages=c,c++,lto --enable-threads=posix --enable-tls --enable-fully-dynamic-string --enable-libstdcxx-time --disable-libstdcxx-pch --enable-libgomp --disable-libssp --disable-multilib --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-system-zlib --with-isl --with-pkgversion='Rev7, Built by MSYS2 project' --with-bugurl=https://github.com/msys2/MINGW-packages/issues --disable-libstdcxx-debug --disable-sjlj-exceptions --with-dwarf2 --with-boot-ldflags='-static-libstdc++ -static-libgcc -Wl,--large-address-aware'
+Thread model: posix
+Supported LTO compression algorithms: zlib zstd
+gcc version 16.2.0 (Rev7, Built by MSYS2 project) 
